@@ -1,5 +1,5 @@
 # The-Auto_Opening-Box
- This is a simple Arduino project modeled after the contactless bins all over YouTube
+ This is a simple Arduino project inspired by the non-contact innovations all over the internet.
  
  Especially due to the Covid-19 pandemic, most innovative projects are built around contact-less devices;
  such as Automatic Dispenser, Non-contact Infrared Thermometer and so much more.
